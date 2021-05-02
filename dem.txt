@@ -1,0 +1,4 @@
+I am at the Programming practical
+=======
+ I am beginning to understand GIT! 
+ This text was added originally while in the feature branch 
